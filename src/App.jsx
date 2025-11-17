@@ -1,11 +1,9 @@
 import { useState } from "react";
 import "./App.css";
-
 import Products from "./Components/Products";
 import Home from "./Components/Home";
-import Product from "./components/product";
+import Product from "./Components/product";
 import List from "./Components/Categories";
-
 import { HashRouter, Routes, Route } from "react-router-dom";
 
 function App() {
